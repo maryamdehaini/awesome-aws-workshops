@@ -36,3 +36,4 @@ jobs:
           build_dir: site
         env:
           GITHUB_PAT: ${{ secrets.GH_DEPLOY_TOKEN }}
+          
